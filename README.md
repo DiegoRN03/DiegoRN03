@@ -1,6 +1,12 @@
+
 ### Hi there, Welcome 🖤
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dxyZTfRE610Vg9pkJe/giphy.gif" width="80%"/>
+</div>
+
 ## My name is Diego, I'm 18 years old, and I am from Costa Rica  👨🏽‍💻
-![top-ide-software-170x133](https://github.com/DiegoRN03/DiegoRN03/assets/101913015/d6982a41-e0d5-4597-abb5-a00b49e234a7)
+
 
 🔭 I’m currently studying Web Development at the COTEPECOS! I'm interested about everything related to technology
 right now I'm still learning about Javascript, HTML, CSS and others.
@@ -11,6 +17,18 @@ I would like to be part of this amazing family of Programming. I really love thi
 
 # Skills
 Web Development | English B2 | Cloud Computing 
+<div>
+ 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  
+</div>
+
+
 
 <!--
 **DiegoRN03/DiegoRN03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
