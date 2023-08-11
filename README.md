@@ -9,6 +9,8 @@ Last year I obtained the AZ-900 Certification from Microsoft which is a great ac
 
 I would like to be part of this amazing family of Programming. I really love this community and what it does. 
 
+# Skills
+Web Development | English B2 | Cloud Computing 
 
 <!--
 **DiegoRN03/DiegoRN03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
