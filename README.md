@@ -1,6 +1,7 @@
 ### Hi there 👋, Welcome
 
-🔭 I’m currently studying Web Development at the COTEPECOS![programming](https://github.com/DiegoRN03/DiegoRN03/assets/101913015/065cdbdf-bd89-44cc-9fc6-65cbe30f3bbb)
+🔭 I’m currently studying Web Development at the COTEPECOS!
+                                                                                                        [programming]                                                                                                                                                        (https://github.com/DiegoRN03/DiegoRN03/assets/101913015/065cdbdf-bd89-44cc-9fc6-65cbe30f3bbb)
 <!--
 **DiegoRN03/DiegoRN03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
